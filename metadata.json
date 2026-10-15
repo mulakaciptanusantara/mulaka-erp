@@ -1,0 +1,6 @@
+{
+  "name": "Mulaka ERP - Construction & Accounting",
+  "description": "Sistem ERP Terintegrasi PT. Mulaka Cipta Nusantara - Portal Proyek, AHSP Cipta Karya, RAP/RAB, Penggajian Tukang, dan Akuntansi P&L.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
